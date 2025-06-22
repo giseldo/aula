@@ -1,4 +1,4 @@
-# Projeto de Testes com Modelos de Linguagem
+# Modelos de Linguagem Rodando Localmente com Hugging Face
 
 Este projeto contém scripts para testar diferentes modelos de linguagem utilizando bibliotecas como `transformers` e `gradio`. Cada script demonstra o uso de um modelo específico para realizar tarefas de NLP (Processamento de Linguagem Natural).
 
