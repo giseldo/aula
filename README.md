@@ -32,7 +32,7 @@ As dependências do projeto estão listadas no arquivo `requirements.txt`. Certi
 
 ## Observações
 
-- Este projeto foi desenvolvido para fins educacionais e de teste.
+- Este projeto foi desenvolvido para fins educacionais.
 - Certifique-se de ter acesso à internet para baixar os modelos utilizados nos scripts.
 
 ## Mapa Mental construído na aula
