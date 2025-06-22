@@ -35,6 +35,10 @@ As dependências do projeto estão listadas no arquivo `requirements.txt`. Certi
 - Este projeto foi desenvolvido para fins educacionais e de teste.
 - Certifique-se de ter acesso à internet para baixar os modelos utilizados nos scripts.
 
+## Mapa Mental construído na aula
+
+![LLM](https://github.com/user-attachments/assets/9df2233e-b276-4d4c-8f08-ed6e9168f853)
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
