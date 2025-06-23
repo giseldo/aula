@@ -6,9 +6,12 @@ pipe = pipeline("text-generation",
 
 def response(message, history):
     response = pipe(message)
+
+    print(response)
+
     for item in response:
         output = item["generated_text"]
-    
+
     return output 
 
 gr.ChatInterface(fn=response).launch()
